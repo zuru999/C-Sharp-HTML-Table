@@ -1,0 +1,16 @@
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\HTML_Tables.exe.config
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\HTML_Tables.exe
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\HTML_Tables.pdb
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\WebDriver.dll
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\WebDriver.Support.dll
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\WebDriver.xml
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\WebDriver.Support.xml
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\obj\Debug\HTML_Tables.csprojResolveAssemblyReference.cache
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\obj\Debug\HTML_Tables.exe
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\obj\Debug\HTML_Tables.pdb
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\C#\Automatyzacja\HTML_Tables\HTML_Tables\bin\Debug\ThoughtWorks.Selenium.Core.xml

@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Table Caption</title>
+<style>
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+</style>
+</head>
+<body>
+
+
+
+
+<table>
+ <tr>
+  <th>EmployeeID</th>
+  <th>Name</th>
+  <th>Email</th>
+  <th>Phone</th>
+  <th>Option</th>
+  <th></th>
+ </tr>
+
+ <tr>
+  <td>100</td>
+  <td>Mateusz</td>
+  <td>mateusz@test.com</td>
+  <td>698768567</td>
+  <td style = "text-align:center;"> 
+      <input type="checkbox" value="chacked"></td>
+
+  <td><button onclick="delete1()">Delete</button>
+      <script>
+      function delete1() {
+      alert ("Czy chcesz usunaæ u¿ytkownika: Mateusz ?");
+      }
+      </script>
+
+       
+     <button onclick="save1()">Save</button>
+      <script>
+      function save1() {
+      alert ("Czy chcesz zapisaæ u¿ytkownika: Mateusz ?");
+      }
+      </script></td>
+
+
+
+<!--<form action="http://google.com">
+    <input type="submit" value="Go to Google" />
+</form>-->
+
+
+<!--<form><input type=submit value="Delete" style="width:100%"></form>
+      <form><input type=submit value="Save" style="width:100%"></form>--> 
+  
+
+ </tr>
+
+ <tr>
+  <td>101</td>
+  <td>Katarzyna</td>
+  <td>katarzyna@testowa.com</td>
+  <td>667878654</td>
+  <td style = "text-align:center;"> 
+      <input type="checkbox" value="chacked"></td>
+
+
+  <td><button onclick="delete2()">Delete</button>
+      <script>
+      function delete2() {
+      alert ("Czy chcesz usunaæ u¿ytkownika: Katarzyna ?");
+      }
+      </script>
+
+
+
+      <button onclick="save2()">Save</button>
+      <script>
+      function save2() {
+      alert ("Czy chcesz zapisaæ u¿ytkownika: Katarzyna ?");
+      }
+      </script></td>
+
+
+ </tr>
+
+ <tr>
+  <td>102</td>
+  <td>Wies³aw</td>
+  <td>wieslaw@testowy.com</td>
+  <td>689335664</td>
+  <td style = "text-align:center;"> 
+     <input type="checkbox" value="chacked"></td>
+
+
+
+  <td><button onclick="delete3()">Delete</button>
+      <script>
+      function delete3() {
+      alert ("Czy chcesz usunaæ u¿ytkownika: Wies³aw ?");
+      }
+      </script>
+
+
+
+      <button onclick="save3()">Save</button>
+      <script>
+      function save3() {
+      alert ("Czy chcesz zapisaæ u¿ytkownika: Wies³aw ?");
+      }
+      </script></td>
+
+  
+</tr>
+	
+</table>
+
+
+</body>
+</html>
